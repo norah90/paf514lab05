@@ -3,6 +3,7 @@ layout: liquid-table
 title: Ryan vs Ryan Table Demo
 permalink: /table-demo.html
 ---
+<img src="/img/ryan-v-ryan.jpg" alt="Ryan Reynolds vs Ryan Gosling">
 
 <h2> Ryan vs Ryan: Liquid Table Demo </h2>
 
