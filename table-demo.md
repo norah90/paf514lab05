@@ -3,7 +3,6 @@ layout: liquid-table
 title: Ryan vs Ryan Table Demo
 
 ---
-<img src="img/ryan-v-ryan.jpg" alt="Ryan Reynolds vs Ryan Gosling">
 
 <h2> Ryan vs Ryan: Liquid Table Demo </h2>
 
@@ -21,7 +20,7 @@ title: Ryan vs Ryan Table Demo
 <tr>
   
   
-  <td>
+  <td><img src="img/ryan-v-ryan.jpg" alt="Ryan Reynolds vs Ryan Gosling"></td>
   
     
     <h4>  Strengths  </h4>
