@@ -1,7 +1,7 @@
 ---
 layout: liquid-table
 title: Ryan vs Ryan Table Demo
-permalink: /table-demo.html
+permalink: /paf514lab05/getstarted/table-demo.html
 ---
 <img src="/img/ryan-v-ryan.jpg" alt="Ryan Reynolds vs Ryan Gosling">
 
