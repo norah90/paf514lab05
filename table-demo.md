@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: liquid-table
 title: Ryan vs Ryan Table Demo
+permalink: /table-demo.html
 ---
 
 <h2> Ryan vs Ryan: Liquid Table Demo </h2>
