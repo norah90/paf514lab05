@@ -1,28 +1,30 @@
 ---
-layout: liquid-table
-title: Ryan vs Ryan Table Demo
-reynolds:
-  strengths:
-    - Charismatic
-    - Funny
-    - Great action/comedy timing
-  weaknesses:
-    - Picks some bad movie scripts
-    - Overuses sarcasm
-gosling:
-  strengths:
-    - Strong dramatic acting
-    - Versatile
-    - Popular with critics
-  weaknesses:
-    - Not as strong in comedy
-    - Sometimes monotone
+    layout: liquid-table
+    title: 'amiright?'
+    reynolds:
+      strengths:
+      - good father
+      - funny
+      - dated alanis morissette
+      weaknesses: 
+      - singing
+      - green lantern movie
+      - tennis backhand 
+    gosling:
+      strengths: 
+      - builds houses
+      - is a real boy
+      - never dated alanis morissette
+      weaknesses: 
+      - micky mouse club
+      - cries a lot
+      - not ryan reynolds
 ---
----
-
+<img src="img/ryan-v-ryan.jpg" alt="Ryan Reynolds vs Ryan Gosling"></td>
+  
 <h2> Ryan vs Ryan: Liquid Table Demo </h2>
 
-<table id="ryan-v-ryan">
+
 
 <thead>
   <tr>
@@ -36,7 +38,7 @@ gosling:
 <tr>
   
   
-  <td><img src="img/ryan-v-ryan.jpg" alt="Ryan Reynolds vs Ryan Gosling"></td>
+  <td>
   
     
     <h4>  Strengths  </h4>
