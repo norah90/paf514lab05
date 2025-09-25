@@ -1,7 +1,23 @@
 ---
 layout: liquid-table
 title: Ryan vs Ryan Table Demo
-
+reynolds:
+  strengths:
+    - Charismatic
+    - Funny
+    - Great action/comedy timing
+  weaknesses:
+    - Picks some bad movie scripts
+    - Overuses sarcasm
+gosling:
+  strengths:
+    - Strong dramatic acting
+    - Versatile
+    - Popular with critics
+  weaknesses:
+    - Not as strong in comedy
+    - Sometimes monotone
+---
 ---
 
 <h2> Ryan vs Ryan: Liquid Table Demo </h2>
